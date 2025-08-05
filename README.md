@@ -1,9 +1,6 @@
 <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 02 41" src="https://github.com/user-attachments/assets/f2e5d6a1-5246-4c3a-935d-23b1d1ca7f34" /># 📱 LOTRConverter – SwiftUI Currency Converter
 
 An elegant, SwiftUI-powered **currency converter** inspired by the world of **The Lord of the Rings (LOTR)** 🧙‍♂️🌍. Built as part of my journey to master SwiftUI — one view at a time.
-
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 02 41" src="https://github.com/user-attachments/assets/9957c535-a03a-4361-bcf1-e7d3a7a3a1be" />
-
 ---
 
 ## 🎯 Features
@@ -40,9 +37,10 @@ This project was a practical application of my SwiftUI deep dive. Key topics exp
 
 ## 🖼️ Screenshots
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 03 15" src="https://github.com/user-attachments/assets/959e35a8-e9d2-414c-b280-ccdcf50fb609" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 03 04" src="https://github.com/user-attachments/assets/e61caa1c-70b2-4487-8009-767d5bb647cc" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 03 18" src="https://github.com/user-attachments/assets/37ef427e-7aa8-4be8-bde9-5d66c73c1fec" />
+
+<img width="420" height="911" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 02 41" src="https://github.com/user-attachments/assets/ed3cf0b5-bda4-485e-bd19-a0f5d2a14014" />
+<img width="420" height="911" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 03 04" src="https://github.com/user-attachments/assets/4232cfaa-a407-4249-86c1-a8a6824006f2" />
+<img width="420" height="911" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 03 18" src="https://github.com/user-attachments/assets/201b2e40-02cb-48c9-94e5-5a068d29fc6f" />
 
 ---
 
