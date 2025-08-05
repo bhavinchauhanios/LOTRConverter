@@ -1,4 +1,4 @@
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 02 41" src="https://github.com/user-attachments/assets/f2e5d6a1-5246-4c3a-935d-23b1d1ca7f34" /># 📱 LOTRConverter – SwiftUI Currency Converter
+# 📱 LOTRConverter – SwiftUI Currency Converter
 
 An elegant, SwiftUI-powered **currency converter** inspired by the world of **The Lord of the Rings (LOTR)** 🧙‍♂️🌍. Built as part of my journey to master SwiftUI — one view at a time.
 ---
